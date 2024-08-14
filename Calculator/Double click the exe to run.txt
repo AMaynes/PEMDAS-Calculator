@@ -1,0 +1,1 @@
+To run you can also navigate to the dist folder and click the .exe file
